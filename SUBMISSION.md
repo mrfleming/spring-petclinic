@@ -75,7 +75,7 @@ status after the Travis CI build fails.
 
 ## (5 pts) The section of the POM file showing the coordinates after you’ve fixed them.
 
-![text](images/)
+![Fixing POM](images/fixing-pom-coordinates.png)
 
 <br/>
 <br/>
@@ -84,7 +84,7 @@ status after the Travis CI build fails.
 
 ## (5 pts) Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
 
-![text](images/)
+![Fixed POM Travis CI Report](images/travis-fixing-pom-coordinates.png)
 
 <br/>
 <br/>
@@ -93,7 +93,7 @@ status after the Travis CI build fails.
 
 ## (5 pts) Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
 
-![text](images/)
+![Fixed POM Github Travis CI Badge](images/fixing-pom-coordinates-github.png)
 
 <br/>
 <br/>
