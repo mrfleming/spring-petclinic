@@ -26,10 +26,7 @@ directory and add links to those images to the SUBMISSION.md file. The images yo
 
 ## (5 pts) The section of the POM file showing the coordinates after you’ve changed them.
 
--  Old Pom Value : org.springframework.samples
--  New Pom Value : edu.depaul.cdm.se441
-
-![text](images/)
+![Changing GroupID](images/groupID-edu.depaul.cdm.se441.png)
 
 <br/>
 <br/>
@@ -39,7 +36,7 @@ directory and add links to those images to the SUBMISSION.md file. The images yo
 ## (5 pts) Your Travis CI dashboard showing a successful build after your change of the group
 ID.
 
-![text](images/)
+![Changing GroupId Build Success](images/travis-build-success-groupId.png)
 
 <br/>
 <br/>
