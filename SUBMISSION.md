@@ -46,7 +46,7 @@ ID.
 ## (5 pts) The section of the POM file showing the coordinates after you’ve commented them
 out.
 
-![text](images/)
+![Commenting Out Coordinates](images/commenting-out-coordinates.png)
 
 <br/>
 <br/>
@@ -56,7 +56,7 @@ out.
 
 ## (5 pts) Your Travis CI dashboard showing the unsuccessful build after the breaking change.
 
-![text](images/)
+![Comment Out Build Fail](images/comment-out-build-fail.png)
 
 <br/>
 <br/>
@@ -66,7 +66,7 @@ out.
 ## (5 pts) Your Github repository with the readme.md file selected showing the build failed
 status after the Travis CI build fails.
 
-![text](images/)
+![GitHub Travis CI Build Fail Badge](images/github-comment-out-build-fail-badge.png)
 
 <br/>
 <br/>
