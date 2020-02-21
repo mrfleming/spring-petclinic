@@ -1,0 +1,104 @@
+# HW5 Submission
+
+## Deliverables
+For this week, create a new SUBMISSION.md file in your repo. Add the images to a new figures
+directory and add links to those images to the SUBMISSION.md file. The images you need are:
+
+<br/><br/>
+<br/><br/>
+
+## (5 pts) Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
+![Forked Repo](images/forked-repo.png)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) Your Travis CI dashboard showing a successful first build.
+
+![First Build Success](images/first-travis-build-success-details.png)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) The section of the POM file showing the coordinates after you’ve changed them.
+
+-  Old Pom Value : org.springframework.samples
+-  New Pom Value : edu.depaul.cdm.se441
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) Your Travis CI dashboard showing a successful build after your change of the group
+ID.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) The section of the POM file showing the coordinates after you’ve commented them
+out.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## (5 pts) Your Travis CI dashboard showing the unsuccessful build after the breaking change.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) Your Github repository with the readme.md file selected showing the build failed
+status after the Travis CI build fails.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) The section of the POM file showing the coordinates after you’ve fixed them.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## (5 pts) Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
+
+![text](images/)
+
+<br/>
+<br/>
+<br/>
+<br/>
