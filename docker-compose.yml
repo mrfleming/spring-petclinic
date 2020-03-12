@@ -14,3 +14,9 @@ services:
     volumes:
       - "./conf.d:/etc/mysql/conf.d:ro"
       - ".data.d:/var/lib/mysql"
+  webapp:
+    image: se441/spring-petclinic:both
+    ports:
+      - "8484:8080/tcp"
+    depends_on:
+      - mysql
